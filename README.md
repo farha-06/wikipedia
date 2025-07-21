@@ -13,6 +13,4 @@ This is a simple Python project that allows the user to search for any topic on 
 ## ▶️ How to Run
 1. Run the Python script
 2. Enter a topic
-3. Read the summary in terminal
-
-## 📌 Example
+3. Read the summary .
